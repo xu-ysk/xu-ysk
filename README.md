@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bryce~
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL and python for data science
 
 
 <!---
