@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bryce~
-- 👀 I’m interested in data science
+- 👀 I’m interested in science
 
 
 <!---
