@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bryce~
-- 👀 I’m interested in science
 
 
 <!---
